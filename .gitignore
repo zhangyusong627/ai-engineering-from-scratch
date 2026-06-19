@@ -63,3 +63,7 @@ catalog.json
 site/sitemap.xml
 site/llms.txt
 site/build-meta.js
+
+# Personal / local-only files
+.agents/
+学习笔记/
